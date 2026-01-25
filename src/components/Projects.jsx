@@ -51,11 +51,15 @@ export const Projects = () => {
                     />
                         <h3> Quick QR</h3>
                         <p>
-                            A modern QR Code Generator built with React JS, featuring a user friendly design to create QR codes in real-time
+                            A modern QR Code Generator built with JavaScript, 
+                            featuring a user friendly design to that has a step wizard to design and create QR codes in real-time. 
                         </p>
                         <div className="project-tech">
-                            <span>React JS</span>
-                            <span>TailwindCSS</span>
+                            <span>JavaScript</span>
+                            <span>HTML & CSS</span>
+                        </div>
+                        <div className="project-url">
+                            <a href="" target="blank">Visit Website</a>
                         </div>
                 </motion.div>
 
@@ -77,6 +81,9 @@ export const Projects = () => {
                             <span>React JS</span>
                             <span>TypeScript</span>
                             <span>TailwindCSS</span>
+                        </div>
+                        <div className="project-url">
+                            <a href="" target="blank">Visit Website</a>
                         </div>
                 </motion.div>
                 
