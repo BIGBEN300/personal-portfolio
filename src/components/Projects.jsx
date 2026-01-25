@@ -52,14 +52,14 @@ export const Projects = () => {
                         <h3> Quick QR</h3>
                         <p>
                             A modern QR Code Generator built with JavaScript, 
-                            featuring a user friendly design to that has a step wizard to design and create QR codes in real-time. 
+                            featuring a user friendly design to that has a step wizard to design and create QR codes in real-time
                         </p>
                         <div className="project-tech">
                             <span>JavaScript</span>
                             <span>HTML & CSS</span>
                         </div>
                         <div className="project-url">
-                            <a href="" target="blank">Visit Website</a>
+                            <a href="https://github.com/BIGBEN300" target="blank">Visit Website</a>
                         </div>
                 </motion.div>
 
@@ -83,7 +83,7 @@ export const Projects = () => {
                             <span>TailwindCSS</span>
                         </div>
                         <div className="project-url">
-                            <a href="" target="blank">Visit Website</a>
+                            <a href="https://github.com/BIGBEN300" target="blank">Visit Website</a>
                         </div>
                 </motion.div>
                 
